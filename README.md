@@ -16,7 +16,10 @@ Delhi had the most land area (267,502.01 acres), West Bengal the least (117,352.
 Number of cows and Quantity (ltrs/kg)
 
 
+
 <img width="512" alt="image" src="https://github.com/Korederuthie/Korede-Afolabi/assets/101185644/fabf5559-3bc6-4f6d-825d-48dcddfbbf96">
+
+
 
 
 
