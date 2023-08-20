@@ -9,10 +9,7 @@ LOCATION ANALYSIS
 
 <img width="501" alt="image" src="https://github.com/Korederuthie/Korede-Afolabi/assets/101185644/49b5e369-d167-4201-87c1-c3c3bf314a00">
 
-At 267,502.01 acres, Delhi had the most total land area. This was 127.95% more than West Bengal, which had the least total land area at 117,352.71 acres. Delhi made up 12.28% of the total amount of land area (acres).
-The biggest difference between Sum of Total Land Area (acres) and Sum of Quantity (liters/kg) was in Kerala, where Sum of Total Land Area (acres) was 8,703.33 times bigger than Sum of Quantity (liters/kg).
-﻿﻿Sum of Total Land Area (acres) and total Sum of Quantity (liters/kg) are positively correlated with each other.﻿﻿
-﻿As the total amount of land area goes up, so does the total amount of goods, and vice versa which can potentially lead to increased profit and productivity through several mechanisms like efficient land utilization, livestock management.
+Delhi had the most land area (267,502.01 acres), West Bengal the least (117,352.71 acres). Delhi's land area made up 12.28% of the total. Kerala had the largest gap between land area and quantity. Positive correlation suggests increased profit and productivity via efficient practices
 
  
 
