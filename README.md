@@ -26,6 +26,20 @@ Number of cows and Quantity (ltrs/kg)
 Delhi had the most cows overall, with 29060. This was 125.94% more than Tamil Nadu, which had the fewest cows overall, with 12862.
 Delhi was home to 12.22% of all the cows in the world. The biggest difference between the Sum of Quantity (liters/kg) and Sum of Number of Cows was in Delhi, where Sum of Quantity (liters/kg) was 235057 times higher than Sum of Number of Cows. The sum of the number of cows and the sum of the amount (liters/kg) are linked in a good way, hence the need to intensify production by optimizing feeding, animal health care, and so on.
 
+
+SALES ANALYSIS
+
+Sales by Location
+
+<img width="503" alt="image" src="https://github.com/Korederuthie/Korede-Afolabi/assets/101185644/98b53244-2142-4f3a-86a6-f20869decb1e">
+
+Chandigarh had the biggest Sales Value at 13,700,840.79, which was 83.43% higher than West Bengal's Sum of Total Value of 7,469,386.00.26.98% of the Sum of Total Value came from Chandigarh.
+
+
+ 
+
+
+
  
 
 
